@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+body{
+    text-align: center;
+    background: rgb(255,170,204);
+    background: linear-gradient(90deg, rgba(255,170,204,1) 27%, rgba(204,238,255,1) 61%);
+}
+h1{
+    font-family: 'Boogaloo', cursive;
+}
+
+p{
+    font-family: 'Handlee', cursive;
+}
